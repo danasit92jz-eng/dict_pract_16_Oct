@@ -1,3 +1,4 @@
+# Dipali_Savaliya
 products={"Milk":30,"Bread":40,"Rice":60,"Apples":100,"Eggs":70}
 for name,price in products.items():
     print("Name:",name)
